@@ -1,0 +1,13 @@
+git config --global user.name "Eslam Said"
+git config --global user.email "Eslam_Said@Khales.com.eg"
+
+git init
+git clone http://kh-git-dev.efinance.com.eg:7990/scm/khal/pos-development.git
+
+git add .
+git commit -m "Initial Commit"
+git push -u origin master
+
+// to create branch
+git branch branch1
+git checkout branch1 
