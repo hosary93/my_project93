@@ -1,6 +1,6 @@
 int main ()
 {
 
-print "sdsdsdws"
+print "hello"
 
 }
