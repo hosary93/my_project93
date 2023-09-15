@@ -14,3 +14,10 @@ var= get temperatere();
 start_another_conversion();
 ret var;
 }
+
+
+adc_init {
+
+
+    
+}
