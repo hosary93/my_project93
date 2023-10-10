@@ -4,3 +4,11 @@ int main ()
   printf("hellow world");
   return 0;
 }
+ 
+
+ int add(int x, int y)
+ {
+
+return x+y;
+
+ }
